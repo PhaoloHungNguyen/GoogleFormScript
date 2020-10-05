@@ -1,4 +1,4 @@
 # GoogleFormScript
-Function to send email
-Function to create ticket / issue to Jira
-Function to Update ticket / issue in Jira
+Apply Javascript for function:
+1. Function to send email
+2. Functions to update / create issue to Jira
